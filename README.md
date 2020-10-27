@@ -1,5 +1,7 @@
 ### Hi there Internet Stranger! 👋
-My name is Alex Ruheni. I am a JavaScript Developer (I know you love to hate Js and so do I). I love building cool stuff.
+My name is Alex Ruheni. 
+I am a Student developer passionate about writing, teaching and community.
+Other than that, I am a JavaScript Developer (I know you love to hate Js and so do I). I love building cool stuff.
 
 
 - 🔭 I’m currently working on ...
