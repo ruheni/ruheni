@@ -1,6 +1,6 @@
 ### Hi there Internet Stranger! 👋
 My name is Alex Ruheni. 
-I am a Developer Advocate passionate about teaching, writing and community.
+I am a Developer Advocate at [Prisma](https://prisma.io) and I love teaching, writing and community.
 Other than that, I am a JavaScript Developer (I know you love to hate Js and so do I). I love building cool stuff.
 
 
