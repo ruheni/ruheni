@@ -1,8 +1,7 @@
 ### Hi there Internet Stranger! 👋
-My name is Alex Ruheni. 
-I am a Developer Advocate at [Prisma](https://prisma.io) and I love teaching, making content and building developer communities.
-Besides that, I am a software engineer – I go where the wind takes me be it frontend, backend, fullstack, or infrastructure. I enjoy learning and building interesting projects
 
+My name is Alex Ruheni.
+I am a Software engineer at [Feather](https://feather-insurance.com).
 
 - 🔭 I’m currently working on [DisQuss](https://github.com/ruheni/discussions)
 - 🌱 I’m currently learning databases. 🗃
